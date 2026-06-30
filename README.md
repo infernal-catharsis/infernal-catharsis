@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://komarev.com/ghpvc/?username=infernal-catharsis&label=cheese&color=#FFFFF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=infernal-catharsis&label=cheese&color=#4703aa&style=for-the-badge" alt="Profile Views" />
