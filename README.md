@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://komarev.com/ghpvc/…for-the-badge" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=infernal-catharsis&label=yourtext&color=#00000&style=for-the-badge" alt="Profile Views" />
